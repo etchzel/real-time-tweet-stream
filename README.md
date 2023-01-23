@@ -20,7 +20,7 @@ Stream tweet data in real-time, then send the data to Google Pub/Sub into Google
 - Clone this repo.
 
   ```bash
-  git clone 
+  git clone https://github.com/etchzel/real-time-tweet-stream.git
   ```
 
 - Change directory to repo directory
